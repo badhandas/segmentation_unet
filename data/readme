@@ -1,0 +1,2 @@
+Carvana Image Masking Challenge data
+Create 4 folder: train_image, train_mask, val_image, val_mask and place the image and mask files
